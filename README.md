@@ -1,0 +1,10 @@
+Development and Exploratory Evaluation of a Permutation-Based Resistance Training Framework: A Two-Year N-of-1 Case Study
+
+**Author:** Kush Sethia, Fair Lawn High School
+**Status:** Preprint (not peer-reviewed), v1.0, October 2026
+
+## Abstract
+Conventional resistance training splits often overemphasize major muscle groups while neglecting individual muscular subdivisions, contributing to imbalanced development, compensation patterns and training plateaus. This study aimed to develop and preliminarily evaluate a novel subdivision- and permutation-based resistance-training framework designed to organise targeted training across muscular subdivisions through structured exercise sequencing. A single trained adolescent male (aged 14 to 16 years) independently developed and iteratively refined the framework over 24 months, incorporating three primary techniques: permutational muscular subdivision sequencing, primary-complementary training, and structured intra-session exercise ordering. Training frequency averaged three sessions per week with protein intake maintained at approximately 1.3 g/kg body weight per day. Body weight increased from 63 to 77.1 kg; one-repetition maximum improvements included bench press (30 to 65kg; 117%), deadlift (70 to 130kg; 86%), squat (60 to 110kg; 83%), and standing shoulder press (30 to 50 kg; 67%). Additionally, a pre-existing bilateral bicep curl strength imbalance of approximately 2.5 kg and a bilateral imbalance between both sides in a dumbbell medium grip vertical row of 3 kg was resolved to approximately zero. These observations occurred while the participant used the framework; however, the single-participant design, adolescent maturation, self-measurement, and other uncontrolled variables mean the causation cannot be exactly established. Multi-participant controlled studies would be needed to evaluate the framework’s effectiveness.
+
+## How to cite
+Sethia, K. (2026). Development and Exploratory Evaluation of a Permutation-Based Resistance Training Framework: A Two-Year N-of-1 Case Study [Preprint].

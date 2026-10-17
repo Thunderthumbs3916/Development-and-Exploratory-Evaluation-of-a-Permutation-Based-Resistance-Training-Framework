@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+title: "Development and Exploratory Evaluation of a Permutation-Based Resistance Training Framework: A Two-Year N-of-1 Case Study"
+authors:
+  - family-names: "Sethia"
+    given-names: "Kush"
+    affiliation: "Fair Lawn High School"
+version: 1.0.0
+date-released: 2026-10-16
+license: CC-BY-4.0"
+url: "https://github.com/Thunderthumbs3916/Development-and-Exploratory-Evaluation-of-a-Permutation-Based-Resistance-Training-Framework"
+preferred-citation:
+  type: unpublished
+  title: "Development and Exploratory Evaluation of a Permutation-Based Resistance Training Framework: A Two-Year N-of-1 Case Study"
+  authors:
+    - family-names: "Sethia"
+      given-names: "Kush"
+  year: 2026
+  notes: "Preprint, not peer-reviewed"

@@ -9,6 +9,7 @@ version: 1.0.0
 date-released: 2026-10-16
 license: "CC-BY-4.0"
 url: "https://github.com/Thunderthumbs3916/Development-and-Exploratory-Evaluation-of-a-Permutation-Based-Resistance-Training-Framework"
+doi: "https://doi.org/10.5281/zenodo.23428950"
 preferred-citation:
   type: unpublished
   title: "Development and Exploratory Evaluation of a Permutation-Based Resistance Training Framework: A Two-Year N-of-1 Case Study"
@@ -17,3 +18,4 @@ preferred-citation:
       given-names: "Kush"
   year: 2026
   notes: "Preprint, not peer-reviewed"
+  doi: "https://doi.org/10.5281/zenodo.23428950"

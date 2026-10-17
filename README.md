@@ -1,4 +1,5 @@
 Development and Exploratory Evaluation of a Permutation-Based Resistance Training Framework: A Two-Year N-of-1 Case Study
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23428950.svg)](https://doi.org/10.5281/zenodo.23428950)
 
 **Author:** Kush Sethia, Fair Lawn High School
 **Status:** Preprint (not peer-reviewed), v1.0, October 2026
@@ -8,3 +9,4 @@ Conventional resistance training splits often overemphasize major muscle groups 
 
 ## How to cite
 Sethia, K. (2026). Development and Exploratory Evaluation of a Permutation-Based Resistance Training Framework: A Two-Year N-of-1 Case Study [Preprint].
+DOI: "https://doi.org/10.5281/zenodo.23428950"
